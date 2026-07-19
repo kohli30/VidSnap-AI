@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# User generated files
+user_uploads/
+static/reels/
+
+# Runtime files
+done.txt
+
+# OS files
+.DS_Store
+Thumbs.db
