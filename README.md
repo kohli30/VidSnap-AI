@@ -2,7 +2,7 @@
 # 🎬 VidSnap AI
 
 <p align="center">
-  <img src="images/home.png" alt="VidSnap AI Home Page" width="900">
+  <img src="Images/home.png" alt="VidSnap AI Home Page" width="900">
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ The application generates realistic voice narration using the **ElevenLabs Text-
 ## Home Page
 
 <p align="center">
-<img src="images/home.png" width="900">
+<img src="Images/home.png" width="900">
 </p>
 
 ---
@@ -53,7 +53,7 @@ The application generates realistic voice narration using the **ElevenLabs Text-
 ## Create Reel
 
 <p align="center">
-<img src="images/create_reel.png" width="900">
+<img src="Images/create_reel.png" width="900">
 </p>
 
 ---
@@ -61,7 +61,7 @@ The application generates realistic voice narration using the **ElevenLabs Text-
 ## Gallery
 
 <p align="center">
-<img src="images/gallery.png" width="900">
+<img src="Images/gallery.png" width="900">
 </p>
 
 ---
